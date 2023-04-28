@@ -1,4 +1,4 @@
-# apollo_graphq_check
+# To run project
 
 To run this project 
 1- git clone
