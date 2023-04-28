@@ -1,0 +1,17 @@
+{
+  "name": "error_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/server": "^4.6.0",
+    "demo_error_test": "file:../error_test",
+    "graphql": "^16.6.0"
+  }
+}

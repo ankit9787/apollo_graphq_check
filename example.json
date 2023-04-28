@@ -1,0 +1,26 @@
+{
+    "filters": [
+        {
+            "fieldName": "planYear",
+            "values": [
+                "2023", "2024"
+            ]
+        },
+        {
+            "fieldName": "planStatus",
+            "values": [
+                "Active","inactive"
+            ]
+        },
+
+        {
+            "fieldName": "plan-service-area-codes",
+            "values": [
+                {
+                    "postalCodes": "45766"
+                }
+            ]
+        }
+    ]
+
+}
